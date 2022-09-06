@@ -1,0 +1,348 @@
+﻿DOCUMENTO;ORGANIZACION;FECHA;TIPOFACTURA;PRODUCTO;CANTIDAD;PRECIO;IMPORTEMONTRANSACCION;MONEDA
+B-0004-00000007;Consumidor Final;25/01/2022;Factura;PC;10000;130000;1300000000;Pesos Argentinos
+A-0004-00000039;Brillamás SA;19/01/2022;Factura;Teclado;200000;1900;380000000;Pesos Argentinos
+A-0004-00000039;Brillamás SA;19/01/2022;Factura;Mouse;200000;1300;260000000;Pesos Argentinos
+A-0004-00000038;Horizonte S.A.;11/01/2022;Factura;Impresora Multifuncion ;100000;12000;1200000000;Pesos Argentinos
+A-0004-00000037;Galardon S.A.;07/01/2022;Factura;Impresora Multifuncion ;80000;12000;960000000;Pesos Argentinos
+A-0004-00000036;Galardon S.A.;05/01/2022;Factura;PC;40000;100000;4000000000;Pesos Argentinos
+A-0004-00000036;Galardon S.A.;05/01/2022;Factura;Modem Router;100000;2100;210000000;Pesos Argentinos
+B-0004-00000006;Consumidor Final;17/12/2021;Factura;PC;10000;90909;909090900;Pesos Argentinos
+A-0004-00000035;Donadelli S.R.L;15/12/2021;Factura;Mercaderia de Reventa;1000000;3100;3100000000;Pesos Argentinos
+A-0004-00000035;Donadelli S.R.L;15/12/2021;Factura;Productos Terminados;120000;1500;180000000;Pesos Argentinos
+A-0004-00000034;Algorte S.A.;07/12/2021;Factura;Modem Router;270000;2100;567000000;Pesos Argentinos
+A-0004-00000033;Brillamás SA;01/12/2021;Factura;PC;30000;100000;3000000000;Pesos Argentinos
+A-0004-00000033;Brillamás SA;01/12/2021;Factura;Teclado;120000;1900;228000000;Pesos Argentinos
+B-0004-00000005;Consumidor Final;15/11/2021;Factura;PC;10000;123967;1239669400;Pesos Argentinos
+A-0004-00000032;Algorte S.A.;15/11/2021;Factura;Teclado;500000;1800;900000000;Pesos Argentinos
+A-0004-00000032;Algorte S.A.;15/11/2021;Factura;Parlantes para PC;500000;1500;750000000;Pesos Argentinos
+A-0004-00000031;Brillamás SA;08/11/2021;Factura;Monitor LED;100000;40000;4000000000;Pesos Argentinos
+A-0004-00000030;Horizonte S.A.;05/11/2021;Factura;Impresora Multifuncion ;10000;11000;110000000;Pesos Argentinos
+A-0004-00000029;Galardon S.A.;01/11/2021;Factura;Cable RGB para video;100000;2000;200000000;Pesos Argentinos
+A-0004-00000028;Galardon S.A.;20/10/2021;Factura;Parlantes para PC;80000;2000;160000000;Pesos Argentinos
+B-0004-00000004;Etigand S.A.;18/10/2021;Factura;Mercaderia de Reventa;800000;2562;2049586800;Pesos Argentinos
+B-0004-00000004;Etigand S.A.;18/10/2021;Factura;Productos Terminados;200000;1240;247933900;Pesos Argentinos
+A-0004-00000027;Jameson SRL;12/10/2021;Factura;Parlantes para PC;150000;2000;300000000;Pesos Argentinos
+A-0004-00000026;Brillamás SA;07/10/2021;Factura;Monitor LED;40000;40000;1600000000;Pesos Argentinos
+A-0004-00000026;Brillamás SA;07/10/2021;Factura;Monitores;40000;25000;1000000000;Pesos Argentinos
+A-0004-00000025;Jameson SRL;01/10/2021;Factura;Modem Router;300000;1950;585000000;Pesos Argentinos
+A-0004-00000024;Donadelli S.R.L;01/10/2021;Factura;Teclado;300000;1800;540000000;Pesos Argentinos
+A-0004-00000024;Donadelli S.R.L;01/10/2021;Factura;Mouse;140000;1200;168000000;Pesos Argentinos
+A-0004-00000023;Brillamás SA;20/09/2021;Factura;Monitor LED;50000;40000;2000000000;Pesos Argentinos
+A-0004-00000023;Brillamás SA;20/09/2021;Factura;Monitores;50000;25000;1250000000;Pesos Argentinos
+A-0004-00000022;Algorte S.A.;15/09/2021;Factura;Cable RGB para video;250000;2000;500000000;Pesos Argentinos
+A-0004-00000022;Algorte S.A.;15/09/2021;Factura;Parlantes para PC;150000;2000;300000000;Pesos Argentinos
+A-0004-00000022;Algorte S.A.;15/09/2021;Factura;Mouse;150000;1000;150000000;Pesos Argentinos
+A-0004-00000021;Galardon S.A.;03/09/2021;Factura;Teclado;150000;1500;225000000;Pesos Argentinos
+A-0004-00000021;Galardon S.A.;03/09/2021;Factura;Mouse;150000;1000;150000000;Pesos Argentinos
+A-0004-00000020;Horizonte S.A.;01/09/2021;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;50000;40000;2000000000;Pesos Argentinos
+A-0004-00000018;Donadelli S.R.L;17/08/2021;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;70000;40000;2800000000;Pesos Argentinos
+A-0004-00000019;Jameson SRL;17/08/2021;Factura;Monitor LED;50000;28000;1400000000;Pesos Argentinos
+A-0004-00000017;Algorte S.A.;02/08/2021;Factura;Cable RGB para video;250000;2000;500000000;Pesos Argentinos
+A-0004-00000017;Algorte S.A.;02/08/2021;Factura;Modem Router;250000;1950;487500000;Pesos Argentinos
+A-0004-00000016;Horizonte S.A.;14/07/2021;Factura;Impresora Multifuncion ;50000;9000;450000000;Pesos Argentinos
+A-0004-00000015;Galardon S.A.;08/07/2021;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;70000;40000;2800000000;Pesos Argentinos
+A-0004-00000014;Donadelli S.R.L;06/07/2021;Factura;Teclado;120000;1500;180000000;Pesos Argentinos
+A-0004-00000014;Donadelli S.R.L;06/07/2021;Factura;Mouse;120000;1000;120000000;Pesos Argentinos
+A-0004-00000013;Algorte S.A.;02/07/2021;Factura;Cable RGB para video;80000;2000;160000000;Pesos Argentinos
+A-0004-00000013;Algorte S.A.;02/07/2021;Factura;Modem Router;80000;1950;156000000;Pesos Argentinos
+A-0004-00000012;Amazon Group;17/06/2021;Factura;Cable RGB para video;250000;2000;500000000;Pesos Argentinos
+A-0004-00000012;Amazon Group;17/06/2021;Factura;Impresora Multifuncion ;40000;9000;360000000;Pesos Argentinos
+A-0004-00000011;Campomas S.A.;11/06/2021;Factura;Modem Router;200000;1950;390000000;Pesos Argentinos
+A-0004-00000010;Horizonte S.A.;01/06/2021;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;60000;40000;2400000000;Pesos Argentinos
+A-0004-00000009;Campomas S.A.;12/05/2021;Factura;Mouse;150000;3000;450000000;Pesos Argentinos
+A-0004-00000009;Campomas S.A.;12/05/2021;Factura;Parlantes para PC;150000;1000;150000000;Pesos Argentinos
+A-0004-00000008;Manganello S.R.L;07/05/2021;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;60000;40000;2400000000;Pesos Argentinos
+A-0004-00000007;Algorte S.A.;01/05/2021;Factura;Cable RGB para video;150000;2000;300000000;Pesos Argentinos
+A-0004-00000006;Galardon S.A.;12/04/2021;Factura;PC;20000;95000;1900000000;Pesos Argentinos
+A-0004-00000006;Galardon S.A.;12/04/2021;Factura;Impresora Multifuncion ;30000;9000;270000000;Pesos Argentinos
+A-0004-00000006;Galardon S.A.;12/04/2021;Factura;Insumos oficina;20000;3800;76000000;Pesos Argentinos
+A-0004-00000006;Galardon S.A.;12/04/2021;Factura;Modem Router;20000;1890;37800000;Pesos Argentinos
+A-0004-00000006;Galardon S.A.;12/04/2021;Factura;Parlantes para PC;30000;1000;30000000;Pesos Argentinos
+B-0004-00000003;Valeria Welponer;05/04/2021;Factura;Impresora Multifuncion ;50000;9000;450000000;Pesos Argentinos
+B-0004-00000003;Valeria Welponer;05/04/2021;Factura;Mouse;50000;2479;123966900;Pesos Argentinos
+A-0001-00000247;Donadelli S.R.L;17/03/2021;Factura;Cable RGB para video;10000;150000;1500000000;Pesos Argentinos
+A-0001-00000246;Amazon Group;17/03/2021;Factura;Consultoría;10000;5000;50000000;Pesos Argentinos
+B-0001-00000105;Etigand S.A.;09/03/2021;Factura;Materia Prima Importada;10000;15000;150000000;Pesos Argentinos
+A-0001-00000245;Galardon S.A.;27/02/2021;Factura;Monitor LED;40000;45000;1800000000;Pesos Argentinos
+A-0001-00000245;Galardon S.A.;27/02/2021;Factura;Parlantes para PC;40000;3500;140000000;Pesos Argentinos
+A-0001-00000245;Galardon S.A.;27/02/2021;Factura;Cable RGB para video;20000;2000;40000000;Pesos Argentinos
+A-0001-00000244;Algorte S.A.;15/02/2021;Factura;Cable RGB para video;70000;2000;140000000;Pesos Argentinos
+A-0001-00000243;Berker S.R.L;22/01/2021;Factura;Mouse;50000;900;45000000;Pesos Argentinos
+A-0001-00000242;Algorte S.A.;05/01/2021;Factura;Monitor LED;50000;40000;2000000000;Pesos Argentinos
+B-0003-00000001;Valeria Welponer;28/12/2020;Factura;Teclado;20000;53719;1074380200;Pesos Argentinos
+A-0003-00000001;Manganello S.R.L;23/11/2020;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;20000;110000;2200000000;Pesos Argentinos
+B-0004-00000002;Horacio Aguirre;28/10/2020;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;10000;49587;495867800;Pesos Argentinos
+A-0001-00000241;Amazon Group;30/09/2020;Factura;Consultoría;10000;5000;50000000;Pesos Argentinos
+C-0001-00000001;Algorte S.A.;30/09/2020;Factura;Cable RGB para video;10000;150;1500000;Pesos Argentinos
+B-0001-00000104;Consumidor Final;17/04/2020;Factura;Cable RGB para video;100000;124;12396700;Pesos Argentinos
+A-0001-00000240;Nicolasen y Asociados S.A.;27/03/2020;Factura;Consultoria Digital;120000;7400;888000000;Pesos Argentinos
+A-0001-00000239;Manganello S.R.L;20/03/2020;Factura;PC;80000;49505;3960400000;Pesos Argentinos
+A-0001-00000238;Nicolasen y Asociados S.A.;17/03/2020;Factura;Monitores;150000;7850;1177500000;Pesos Argentinos
+A-0001-00000237;Horizonte S.A.;03/03/2020;Factura;Insumos oficina;100000;7252;725230000;Pesos Argentinos
+A-0001-00000236;Manganello S.R.L;29/02/2020;Factura;Consultoria Web;100000;5890;589000000;Pesos Argentinos
+A-0001-00000235;Ignition S.A.C.I;13/02/2020;Factura;Insumos oficina;250000;6100;1525000000;Pesos Argentinos
+A-0001-00000234;Horizonte S.A.;06/02/2020;Factura;Mercaderia de Reventa;300000;15230;4569000000;Pesos Argentinos
+B-0001-00000103;Horacio Aguirre;17/01/2020;Factura;Consultoria Digital;100000;6300;630000000;Pesos Argentinos
+A-0001-00000233;Hernandez S.A.;08/01/2020;Factura;Mercaderia de Reventa;450000;10500;4725000000;Pesos Argentinos
+A-0001-00000232;Campomas S.A.;03/01/2020;Factura;Teclado;300000;3330;999000000;Pesos Argentinos
+B-0001-00000102;Etigand S.A.;27/12/2019;Factura;Consultoria Web;500000;5785;2892562000;Pesos Argentinos
+B-0001-00000101;Javier Moroni;21/12/2019;Factura;Honorarios;10000;99587;995867800;Pesos Argentinos
+A-0001-00000231;Amazon Group;10/12/2019;Factura;Parlantes para PC;300000;1990;597000000;Pesos Argentinos
+A-0001-00000230;Amazon Group;06/12/2019;Factura;Mercaderia de Reventa;300000;10358;3107400000;Pesos Argentinos
+A-0001-00000001;Juan Fernández;01/12/2019;Factura de Crédito Mipyme;Productos Terminados;10000;1000;10000000;Pesos Argentinos
+A-0001-00000229;Manganello S.R.L;20/11/2019;Factura;Consultoria Digital;500000;6300;3150000000;Pesos Argentinos
+A-0001-00000228;Galardon S.A.;17/11/2019;Factura;Impresora Multifuncion ;230000;10209;2348070000;Pesos Argentinos
+A-0001-00000227;Klarkson;02/11/2019;Factura;Cable RGB para video;600000;1031;618300000;Pesos Argentinos
+A-0001-00000226;Juan Fernández;15/10/2019;Factura;Mercaderia de Reventa;300000;12354;3706200000;Pesos Argentinos
+A-0001-00000225;Horizonte S.A.;02/10/2019;Factura;Insumos oficina;300000;7785;2335500000;Pesos Argentinos
+A-0001-00000224;Amazon Group;30/09/2019;Factura;Servicios Profesionales;10000;6700;67000000;Pesos Argentinos
+A-0001-00000223;Manganello S.R.L;22/09/2019;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;60000;40600;2436000000;Pesos Argentinos
+A-0001-00000222;Juan Fernández;15/09/2019;Factura;Productos Terminados;100000;8889;888850000;Pesos Argentinos
+A-0001-00000221;Nicolasen y Asociados S.A.;10/09/2019;Factura;Servicios Profesionales;10000;98900;989000000;Pesos Argentinos
+A-0001-00000220;Hernandez S.A.;02/09/2019;Factura;Publicidad y Marketing;10000;105060;1050600000;Pesos Argentinos
+A-0001-00000219;Juan Fernández;20/08/2019;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;80000;32999;2639920000;Pesos Argentinos
+A-0001-00000218;Campomas S.A.;13/08/2019;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;10000;40522;405220000;Pesos Argentinos
+A-0001-00000218;Campomas S.A.;13/08/2019;Factura;Consultoria Digital;10000;6300;63000000;Pesos Argentinos
+B-0001-00000100;Ferrari Hnos S.A.;07/08/2019;Factura;Productos Terminados;500000;4132;2066115700;Pesos Argentinos
+A-0001-00000217;Jameson SRL;17/07/2019;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;120000;27500;3300000000;Pesos Argentinos
+A-0001-00000216;Manganello S.R.L;14/07/2019;Factura;Monitor LED;120000;7880;945600000;Pesos Argentinos
+A-0001-00000215;Campomas S.A.;09/07/2019;Factura;Productos Terminados;150000;7850;1177500000;Pesos Argentinos
+B-0001-00000099;Javier Moroni;01/07/2019;Factura;Consultoria Digital;10000;6300;63000000;Pesos Argentinos
+A-0001-00000214;Berker S.R.L;28/06/2019;Factura;Insumos oficina;100000;3500;350000000;Pesos Argentinos
+A-0001-00000213;Ignition S.A.C.I;25/06/2019;Factura;Teclado;100000;1000;100000000;Pesos Argentinos
+A-0001-00000212;Hernandez S.A.;18/06/2019;Factura;Monitor LED;70000;22250;1557500000;Pesos Argentinos
+A-0001-00000211;Manganello S.R.L;16/06/2019;Factura;Consultoría;10000;80100;801000000;Pesos Argentinos
+B-0001-00000098;Javier Moroni;11/06/2019;Factura;Servicios Profesionales;10000;60633;606334800;Pesos Argentinos
+A-0001-00000210;Nicolasen y Asociados S.A.;07/06/2019;Factura;Parlantes para PC;150000;2250;337500000;Pesos Argentinos
+B-0001-00000097;Valeria Welponer;03/06/2019;Factura;Monitor LED;30000;33471;1004132200;Pesos Argentinos
+A-0001-00000209;Campomas S.A.;20/05/2019;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;100000;30589;3058900000;Pesos Argentinos
+B-0001-00000096;Ferrari Hnos S.A.;13/05/2019;Factura;Mouse;350000;900;315000000;Pesos Argentinos
+A-0001-00000208;Galardon S.A.;10/05/2019;Factura;Servicios Profesionales;10000;73800;738000000;Pesos Argentinos
+B-0001-00000095;Juan Lopez;10/05/2019;Factura;Publicidad y Marketing;10000;16653;166528900;Pesos Argentinos
+A-0001-00000207;Nicolasen y Asociados S.A.;05/05/2019;Factura;Consultoria Digital;100000;6300;630000000;Pesos Argentinos
+A-0001-00000206;Hernandez S.A.;28/04/2019;Factura;Productos Terminados;100000;2085;208500000;Pesos Argentinos
+A-0001-00000205;Campomas S.A.;27/04/2019;Factura;Consultoria Web;10000;40000;400000000;Pesos Argentinos
+A-0001-00000204;Jameson SRL;22/04/2019;Factura;Insumos oficina;100000;2300;230000000;Pesos Argentinos
+A-0001-00000203;Berker S.R.L;18/04/2019;Factura;Mercaderia de Reventa;300000;2700;810000000;Pesos Argentinos
+A-0001-00000203;Berker S.R.L;18/04/2019;Factura;Insumos oficina;150000;1000;150000000;Pesos Argentinos
+A-0001-00000203;Berker S.R.L;18/04/2019;Factura;Teclado;200000;560;112000000;Pesos Argentinos
+B-0001-00000094;Javier Moroni;15/04/2019;Factura;Servicios Profesionales;10000;63801;638009100;Pesos Argentinos
+A-0001-00000202;Nicolasen y Asociados S.A.;12/04/2019;Factura;Mercaderia de Reventa;250000;2059;514750000;Pesos Argentinos
+B-0001-00000093;Juan Lopez;08/04/2019;Factura;Insumos oficina;70000;1074;75206600;Pesos Argentinos
+A-0001-00000201;Manganello S.R.L;03/04/2019;Factura;Honorarios;10000;55000;550000000;Pesos Argentinos
+A-0001-00000200;Horizonte S.A.;27/03/2019;Factura;Diseño Web;10000;60985;609850000;Pesos Argentinos
+A-0001-00000199;Amazon Group;21/03/2019;Factura;Servicios Profesionales;10000;30000;300000000;Pesos Argentinos
+A-0001-00000198;Campomas S.A.;16/03/2019;Factura;Consultoria Web;200000;5890;1178000000;Pesos Argentinos
+A-0001-00000197;Hernandez S.A.;14/03/2019;Factura;Mercaderia de Reventa;200000;705;141000000;Pesos Argentinos
+A-0001-00000196;Klarkson;11/03/2019;Factura;Insumos oficina;380000;980;372400000;Pesos Argentinos
+A-0001-00000195;Nicolasen y Asociados S.A.;09/03/2019;Factura;Publicidad y Marketing;10000;7400;74000000;Pesos Argentinos
+B-0001-00000092;Etigand S.A.;08/03/2019;Factura;Publicidad y Marketing;100000;9587;958719000;Pesos Argentinos
+B-0001-00000091;Javier Moroni;08/03/2019;Factura;Teclado;480000;560;268800000;Pesos Argentinos
+A-0001-00000194;Horizonte S.A.;28/02/2019;Factura;Honorarios;10000;150000;1500000000;Pesos Argentinos
+A-0001-00000193;Donadelli S.R.L;27/02/2019;Factura;Diseño Web;10000;73210;732100000;Pesos Argentinos
+A-0001-00000192;Manganello S.R.L;24/02/2019;Factura;Servicios Profesionales;10000;105500;1055000000;Pesos Argentinos
+B-0001-00000090;Javier Moroni;23/02/2019;Factura;Cable RGB para video;150000;1160;173925600;Pesos Argentinos
+A-0001-00000191;Hernandez S.A.;14/02/2019;Factura;Insumos oficina;220000;205;45100000;Pesos Argentinos
+A-0001-00000189;Nicolasen y Asociados S.A.;08/02/2019;Factura;Mercaderia de Reventa;300000;1800;540000000;Pesos Argentinos
+A-0001-00000190;Klarkson;08/02/2019;Factura;Parlantes para PC;50000;1685;84250000;Pesos Argentinos
+A-0001-00000188;Jameson SRL;23/01/2019;Factura;Mercaderia de Reventa;200000;6997;1399400000;Pesos Argentinos
+A-0001-00000187;Hernandez S.A.;21/01/2019;Factura;Monitor LED;50000;13599;679950000;Pesos Argentinos
+A-0001-00000186;Manganello S.R.L;14/01/2019;Factura;Servicios Profesionales;10000;50000;500000000;Pesos Argentinos
+A-0001-00000185;Jameson SRL;11/01/2019;Factura;Intereses por Mora;10000;694;6939900;Pesos Argentinos
+A-0001-00000183;Klarkson;03/01/2019;Factura;Diseño Web;10000;14950;149500000;Pesos Argentinos
+A-0001-00000182;Amazon Group;23/12/2018;Factura;Diseño Web;10000;65800;658000000;Pesos Argentinos
+A-0001-00000182;Amazon Group;23/12/2018;Factura;Publicidad y Marketing;10000;31500;315000000;Pesos Argentinos
+A-0001-00000182;Amazon Group;23/12/2018;Factura;Insumos oficina;10000;3500;35000000;Pesos Argentinos
+A-0001-00000181;Nicolasen y Asociados S.A.;18/12/2018;Factura;Servicios Profesionales;10000;30500;305000000;Pesos Argentinos
+A-0001-00000180;Manganello S.R.L;14/12/2018;Factura;Publicidad y Marketing;10000;56250;562500000;Pesos Argentinos
+A-0001-00000180;Manganello S.R.L;14/12/2018;Factura;Parlantes para PC;20000;1500;30000000;Pesos Argentinos
+A-0001-00000179;Jameson SRL;04/12/2018;Factura;Honorarios;10000;165980;1659800000;Pesos Argentinos
+B-0001-00000089;Javier Moroni;20/11/2018;Factura;Cable RGB para video;200000;107;21487600;Pesos Argentinos
+A-0001-00000178;Nicolasen y Asociados S.A.;16/11/2018;Factura;Mercadería;180000;9150;1647000000;Pesos Argentinos
+A-0001-00000177;Amazon Group;08/11/2018;Factura;Publicidad y Marketing;20000;80050;1601000000;Pesos Argentinos
+A-0001-00000177;Amazon Group;08/11/2018;Factura;Consultoria Digital;10000;6300;63000000;Pesos Argentinos
+A-0001-00000177;Amazon Group;08/11/2018;Factura;Modem Router;120000;473;56760000;Pesos Argentinos
+A-0001-00000176;Hernandez S.A.;05/11/2018;Factura;Honorarios;10000;42300;423000000;Pesos Argentinos
+B-0001-00000088;Horacio Aguirre;31/10/2018;Factura;Consultoría;10000;5000;50000000;Pesos Argentinos
+A-0001-00000175;Hernandez S.A.;31/10/2018;Factura;Honorarios;10000;2500;25000000;Pesos Argentinos
+A-0001-00000174;Ignition S.A.C.I;25/10/2018;Factura;Servicios Profesionales;10000;70000;700000000;Pesos Argentinos
+A-0001-00000174;Ignition S.A.C.I;25/10/2018;Factura;Consultoria Digital;10000;6300;63000000;Pesos Argentinos
+A-0001-00000173;Klarkson;22/10/2018;Factura;Publicidad y Marketing;10000;2000;20000000;Dólares
+B-0001-00000087;Rodrigo Vidal;18/10/2018;Factura;Monitor OLED;30000;3702;111074400;Pesos Argentinos
+B-0001-00000087;Rodrigo Vidal;18/10/2018;Factura;Cable RGB para video;50000;413;20661200;Pesos Argentinos
+B-0001-00000087;Rodrigo Vidal;18/10/2018;Factura;Parlantes para PC;20000;1000;20000000;Pesos Argentinos
+A-0001-00000172;Manganello S.R.L;15/10/2018;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;200000;5587;1117400000;Pesos Argentinos
+A-0001-00000171;Ignition S.A.C.I;11/10/2018;Factura;Servicios Profesionales;10000;68500;685000000;Pesos Argentinos
+A-0001-00000170;Amazon Group;05/10/2018;Factura;Honorarios;10000;50550;505500000;Pesos Argentinos
+A-0001-00000170;Amazon Group;05/10/2018;Factura;Publicidad y Marketing;30000;7400;222000000;Pesos Argentinos
+B-0001-00000086;Valeria Welponer;03/10/2018;Factura;Impresora Multifuncion ;10000;4300;43000000;Pesos Argentinos
+B-0001-00000086;Valeria Welponer;03/10/2018;Factura;Insumos oficina;10000;124;1239700;Pesos Argentinos
+A-0001-00000002;Berker S.R.L;03/10/2018;Nota de Crédito;Publicidad y Marketing;100000;7400;740000000;Pesos Argentinos
+A-0001-00000169;Nicolasen y Asociados S.A.;01/10/2018;Factura;Consultoria Digital;10000;6300;63000000;Pesos Argentinos
+A-0001-00000001;Amazon Group;01/10/2018;Nota de Crédito;Consultoría;10000;43000;430000000;Pesos Argentinos
+A-0001-00000168;Amazon Group;25/09/2018;Factura;Consultoría;10000;43000;430000000;Pesos Argentinos
+A-0001-00000167;Klarkson;21/09/2018;Factura;Servicios Profesionales;10000;89500;895000000;Pesos Argentinos
+A-0001-00000166;Berker S.R.L;10/09/2018;Factura;Publicidad y Marketing;100000;7400;740000000;Pesos Argentinos
+A-0001-00000165;Campomas S.A.;09/09/2018;Factura;Consultoría;10000;20000;200000000;Pesos Argentinos
+A-0001-00000164;Hernandez S.A.;06/09/2018;Factura;Materia Prima Importada;10000;20000;200000000;Pesos Argentinos
+B-0001-00000085;Rodrigo Vidal;06/09/2018;Factura;Impresora Multifuncion ;10000;4300;43000000;Pesos Argentinos
+B-0001-00000085;Rodrigo Vidal;06/09/2018;Factura;Parlantes para PC;10000;1000;10000000;Pesos Argentinos
+B-0001-00000085;Rodrigo Vidal;06/09/2018;Factura;Modem Router;10000;579;5785100;Pesos Argentinos
+A-0001-00000001;Jameson SRL;05/09/2018;Nota de Débito;Intereses por Mora;10000;700;7000000;Pesos Argentinos
+A-0001-00000163;Galardon S.A.;01/09/2018;Factura;Consultoria Web;10000;5890;58900000;Pesos Argentinos
+A-0001-00000162;Jameson SRL;31/08/2018;Factura;Intereses por Mora;10000;28500;285000000;Pesos Argentinos
+A-0001-00000161;Nicolasen y Asociados S.A.;30/08/2018;Factura;Publicidad y Marketing;10000;24600;246000000;Pesos Argentinos
+B-0001-00000084;Etigand S.A.;29/08/2018;Factura;Consultoria Digital;10000;73141;731405000;Pesos Argentinos
+A-0001-00000160;Donadelli S.R.L;26/08/2018;Factura;Publicidad y Marketing;10000;26000;260000000;Pesos Argentinos
+B-0001-00000083;Javier Moroni;21/08/2018;Factura;Honorarios;10000;20661;206611600;Pesos Argentinos
+A-0001-00000159;Hernandez S.A.;14/08/2018;Factura;Consultoria Digital;10000;42000;420000000;Pesos Argentinos
+A-0001-00000158;Manganello S.R.L;08/08/2018;Factura;Impresora Multifuncion ;50000;2500;125000000;Pesos Argentinos
+A-0001-00000157;Nicolasen y Asociados S.A.;04/08/2018;Factura;PC;70000;8500;595000000;Pesos Argentinos
+B-0001-00000082;Javier Moroni;01/08/2018;Factura;Publicidad y Marketing;10000;37190;371900800;Pesos Argentinos
+A-0001-00000156;Nicolasen y Asociados S.A.;28/07/2018;Factura;Publicidad y Marketing;10000;45000;450000000;Pesos Argentinos
+B-0001-00000081;Etigand S.A.;20/07/2018;Factura;Consultoria Digital;10000;24380;243801700;Pesos Argentinos
+A-0001-00000155;Donadelli S.R.L;14/07/2018;Factura;Publicidad y Marketing;10000;75000;750000000;Pesos Argentinos
+B-0001-00000080;Javier Moroni;12/07/2018;Factura;Honorarios;10000;31405;314049600;Pesos Argentinos
+A-0001-00000154;Hernandez S.A.;08/07/2018;Factura;Consultoria Digital;10000;35000;350000000;Pesos Argentinos
+A-0001-00000153;Manganello S.R.L;05/07/2018;Factura;Impresora Multifuncion ;50000;2400;120000000;Pesos Argentinos
+A-0001-00000152;Nicolasen y Asociados S.A.;03/07/2018;Factura;PC;100000;8500;850000000;Pesos Argentinos
+B-0001-00000079;Javier Moroni;01/07/2018;Factura;Publicidad y Marketing;10000;23141;231405000;Pesos Argentinos
+A-0001-00000147;Manganello S.R.L;30/06/2018;Factura;Publicidad y Marketing;10000;35000;350000000;Pesos Argentinos
+B-0001-00000078;Javier Moroni;30/06/2018;Factura;PC;10000;26446;264462800;Pesos Argentinos
+A-0001-00000151;Nicolasen y Asociados S.A.;30/06/2018;Factura;Impresora Multifuncion ;60000;4200;252000000;Pesos Argentinos
+A-0001-00000147;Manganello S.R.L;30/06/2018;Factura;Consultoria Digital;10000;25000;250000000;Pesos Argentinos
+A-0001-00000150;Manganello S.R.L;30/06/2018;Factura;Honorarios;10000;24000;240000000;Pesos Argentinos
+A-0001-00000149;Manganello S.R.L;30/06/2018;Factura;Publicidad y Marketing;10000;18500;185000000;Pesos Argentinos
+A-0001-00000148;Hernandez S.A.;30/06/2018;Factura;Consultoría;10000;18000;180000000;Pesos Argentinos
+B-0001-00000077;Javier Moroni;28/06/2018;Factura;Parlantes para PC;60000;1000;60000000;Pesos Argentinos
+A-0001-00000146;Donadelli S.R.L;26/06/2018;Factura;Consultoría;10000;15000;150000000;Pesos Argentinos
+B-0001-00000076;Etigand S.A.;25/06/2018;Factura;Diseño Web;10000;12397;123966900;Pesos Argentinos
+A-0001-00000145;Galardon S.A.;19/06/2018;Factura;PC;50000;12000;600000000;Pesos Argentinos
+A-0001-00000144;Donadelli S.R.L;08/06/2018;Factura;Consultoria Web;10000;15000;150000000;Pesos Argentinos
+B-0001-00000075;Javier Moroni;01/06/2018;Factura;Diseño Web;10000;13223;132231400;Pesos Argentinos
+A-0001-00000143;Horizonte S.A.;18/05/2018;Factura;PC;40000;600;24000000;Dólares
+A-0001-00000142;Nicolasen y Asociados S.A.;12/05/2018;Factura;Monitores;100000;16000;1600000000;Pesos Argentinos
+A-0001-00000142;Nicolasen y Asociados S.A.;12/05/2018;Factura;Publicidad y Marketing;10000;17500;175000000;Pesos Argentinos
+A-0001-00000142;Nicolasen y Asociados S.A.;12/05/2018;Factura;Consultoria Digital;10000;15000;150000000;Pesos Argentinos
+A-0001-00000141;Ignition S.A.C.I;08/05/2018;Factura;Diseño Web;10000;18000;180000000;Pesos Argentinos
+B-0001-00000074;Ferrari Hnos S.A.;04/05/2018;Factura;Publicidad y Marketing;10000;20661;206611600;Pesos Argentinos
+A-0001-00000140;Berker S.R.L;01/05/2018;Factura;Consultoría;10000;15000;150000000;Pesos Argentinos
+A-0001-00000139;Galardon S.A.;30/04/2018;Factura;Impresora Multifuncion ;90000;1800;162000000;Pesos Argentinos
+B-0001-00000073;Javier Moroni;30/04/2018;Factura;Publicidad y Marketing;10000;11570;115702500;Pesos Argentinos
+B-0001-00000072;Etigand S.A.;29/04/2018;Factura;Consultoria Web;10000;100000;1000000000;Pesos Argentinos
+A-0001-00000138;Galardon S.A.;17/04/2018;Factura;Diseño Web;10000;19000;190000000;Pesos Argentinos
+A-0001-00000137;Horizonte S.A.;10/04/2018;Factura;Consultoria Web;10000;12500;125000000;Pesos Argentinos
+A-0001-00000136;Hernandez S.A.;02/04/2018;Factura;Honorarios;10000;58000;580000000;Pesos Argentinos
+A-0001-00000135;Nicolasen y Asociados S.A.;31/03/2018;Factura;Consultoria Digital;10000;15000;150000000;Pesos Argentinos
+B-0001-00000071;Javier Moroni;14/03/2018;Factura;Publicidad y Marketing;10000;53719;537190100;Pesos Argentinos
+A-0001-00000134;Galardon S.A.;08/03/2018;Factura;Honorarios;10000;65000;650000000;Pesos Argentinos
+A-0001-00000133;Donadelli S.R.L;01/03/2018;Factura;Publicidad y Marketing;10000;65000;650000000;Pesos Argentinos
+A-0001-00000132;Jameson SRL;28/02/2018;Factura;Diseño Web;10000;15500;155000000;Pesos Argentinos
+A-0001-00000131;Ignition S.A.C.I;21/02/2018;Factura;PC;100000;8999;899900000;Pesos Argentinos
+A-0001-00000131;Ignition S.A.C.I;21/02/2018;Factura;Consultoria Digital;10000;2500;25000000;Pesos Argentinos
+A-0001-00000130;Horizonte S.A.;15/02/2018;Factura;Diseño Web;10000;25800;258000000;Pesos Argentinos
+B-0001-00000070;Etigand S.A.;10/02/2018;Factura;Consultoria Digital;10000;2500;25000000;Pesos Argentinos
+A-0001-00000129;Berker S.R.L;02/02/2018;Factura;Diseño Web;50000;6300;315000000;Pesos Argentinos
+A-0001-00000128;Hernandez S.A.;31/01/2018;Factura;Diseño Web;50000;6300;315000000;Pesos Argentinos
+B-0001-00000069;Etigand S.A.;25/01/2018;Factura;Impresora Multifuncion ;80000;3554;284297500;Pesos Argentinos
+B-0001-00000069;Etigand S.A.;25/01/2018;Factura;Monitores;80000;3306;264462800;Pesos Argentinos
+B-0001-00000068;Ferrari Hnos S.A.;01/01/2018;Factura;Impresora Multifuncion ;100000;3554;355371900;Pesos Argentinos
+B-0001-00000068;Ferrari Hnos S.A.;01/01/2018;Factura;Monitores;80000;3306;264462800;Pesos Argentinos
+A-0001-00000127;Berker S.R.L;31/12/2017;Factura;Consultoría;60000;5000;300000000;Pesos Argentinos
+A-0001-00000126;Berker S.R.L;10/12/2017;Factura;Impresora Multifuncion ;100000;4300;430000000;Pesos Argentinos
+A-0001-00000126;Berker S.R.L;10/12/2017;Factura;Monitores;100000;4000;400000000;Pesos Argentinos
+B-0001-00000067;Ferrari Hnos S.A.;01/12/2017;Factura;Diseño Web;50000;5207;260330600;Pesos Argentinos
+A-0001-00000124;Jameson SRL;30/11/2017;Factura;Consultoria Web;40000;5890;235600000;Pesos Argentinos
+A-0001-00000125;Horizonte S.A.;30/11/2017;Factura;Insumos oficina;10000;20000;200000000;Pesos Argentinos
+B-0001-00000066;Ferrari Hnos S.A.;10/11/2017;Factura;Diseño Web;20000;5207;104132200;Pesos Argentinos
+A-0001-00000123;Horizonte S.A.;01/11/2017;Factura;Monitores;90000;5890;530100000;Pesos Argentinos
+A-0001-00000123;Horizonte S.A.;01/11/2017;Factura;Impresora Multifuncion ;50000;4300;215000000;Pesos Argentinos
+B-0001-00000065;Etigand S.A.;30/10/2017;Factura;Mercaderia de Reventa;350000;826;289256200;Pesos Argentinos
+A-0001-00000122;Jameson SRL;25/10/2017;Factura;Consultoria Digital;30000;6300;189000000;Pesos Argentinos
+B-0001-00000064;Horacio Aguirre;15/10/2017;Factura;Diseño Web;10000;5207;52066100;Pesos Argentinos
+A-0001-00000121;Amazon Group;01/10/2017;Factura;Monitores;100000;4000;400000000;Pesos Argentinos
+A-0001-00000121;Amazon Group;01/10/2017;Factura;Impresora Multifuncion ;50000;4300;215000000;Pesos Argentinos
+A-0001-00000120;Galardon S.A.;30/09/2017;Factura;Honorarios;10000;10000;100000000;Pesos Argentinos
+B-0001-00000063;Ferrari Hnos S.A.;15/09/2017;Factura;Consultoría;100000;2893;289256200;Pesos Argentinos
+B-0001-00000062;Etigand S.A.;03/09/2017;Factura;Diseño Web;10000;24793;247933900;Pesos Argentinos
+A-0001-00000119;Donadelli S.R.L;01/09/2017;Factura;Impresora Multifuncion ;50000;4300;215000000;Pesos Argentinos
+A-0001-00000119;Donadelli S.R.L;01/09/2017;Factura;Parlantes para PC;200000;1000;200000000;Pesos Argentinos
+A-0001-00000118;Campomas S.A.;25/08/2017;Factura;Diseño Web;10000;6300;63000000;Pesos Argentinos
+A-0001-00000118;Campomas S.A.;25/08/2017;Factura;Consultoría;10000;5000;50000000;Pesos Argentinos
+A-0001-00000117;Berker S.R.L;18/08/2017;Factura;Consultoria Web;10000;15000;150000000;Pesos Argentinos
+A-0001-00000116;Jameson SRL;14/08/2017;Factura;Impresora Multifuncion ;30000;4300;129000000;Pesos Argentinos
+A-0001-00000116;Jameson SRL;14/08/2017;Factura;Monitores;20000;3650;73000000;Pesos Argentinos
+A-0001-00000115;Berker S.R.L;13/08/2017;Factura;Materia Prima Importada;20000;5000;100000000;Pesos Argentinos
+A-0001-00000114;Campomas S.A.;12/08/2017;Factura;Insumos oficina;10000;2500;25000000;Pesos Argentinos
+A-0001-00000113;Donadelli S.R.L;10/08/2017;Factura;Diseño Web;10000;6300;63000000;Pesos Argentinos
+A-0001-00000113;Donadelli S.R.L;10/08/2017;Factura;Consultoria Web;10000;5890;58900000;Pesos Argentinos
+A-0001-00000112;Campomas S.A.;05/08/2017;Factura;Materia Prima Importada;50000;2650;132500000;Pesos Argentinos
+B-0001-00000061;Horacio Aguirre;02/08/2017;Factura;Consultoría;10000;8678;86776900;Pesos Argentinos
+A-0001-00000111;Horizonte S.A.;22/07/2017;Factura;Honorarios;10000;10500;105000000;Pesos Argentinos
+A-0001-00000111;Horizonte S.A.;22/07/2017;Factura;Diseño Web;10000;6300;63000000;Pesos Argentinos
+A-0001-00000110;Donadelli S.R.L;21/07/2017;Factura;Materia Prima Importada;20000;6300;126000000;Pesos Argentinos
+A-0001-00000109;Campomas S.A.;20/07/2017;Factura;PC;30000;9500;285000000;Pesos Argentinos
+A-0001-00000108;Jameson SRL;20/07/2017;Factura;Diseño Web;10000;6850;68500000;Pesos Argentinos
+A-0001-00000108;Jameson SRL;20/07/2017;Factura;Honorarios;10000;4500;45000000;Pesos Argentinos
+A-0001-00000107;Nicolasen y Asociados S.A.;13/07/2017;Factura;Monitores;20000;3600;72000000;Pesos Argentinos
+A-0001-00000107;Nicolasen y Asociados S.A.;13/07/2017;Factura;Parlantes para PC;30000;1000;30000000;Pesos Argentinos
+A-0001-00000107;Nicolasen y Asociados S.A.;13/07/2017;Factura;Teclado;30000;560;16800000;Pesos Argentinos
+A-0001-00000106;Campomas S.A.;04/07/2017;Factura;Consultoria Web;10000;9500;95000000;Pesos Argentinos
+A-0001-00000105;Manganello S.R.L;22/06/2017;Factura;Materia Prima Importada;10000;7400;74000000;Pesos Argentinos
+B-0001-00000060;Etigand S.A.;20/06/2017;Factura;Modem Router;20000;1364;27272700;Pesos Argentinos
+A-0001-00000104;Berker S.R.L;18/06/2017;Factura;Mercaderia de Reventa;30000;3200;96000000;Pesos Argentinos
+A-0001-00000103;Galardon S.A.;17/06/2017;Factura;Servicios Profesionales;10000;12000;120000000;Pesos Argentinos
+B-0001-00000059;Etigand S.A.;15/06/2017;Factura;Impresora Multifuncion ;30000;3554;106611600;Pesos Argentinos
+B-0001-00000059;Etigand S.A.;15/06/2017;Factura;Cable RGB para video;20000;207;4132200;Pesos Argentinos
+A-0001-00000102;Donadelli S.R.L;12/06/2017;Factura;Consultoria Digital;10000;6300;63000000;Pesos Argentinos
+A-0001-00000100;Donadelli S.R.L;10/06/2017;Factura;Monitores;20000;4000;80000000;Pesos Argentinos
+A-0001-00000101;Berker S.R.L;10/06/2017;Factura;Consultoría;10000;5000;50000000;Pesos Argentinos
+A-0001-00000100;Donadelli S.R.L;10/06/2017;Factura;Parlantes para PC;20000;1000;20000000;Pesos Argentinos
+A-0001-00000099;Klarkson;07/06/2017;Factura;Modem Router;40000;2300;92000000;Pesos Argentinos
+B-0001-00000058;Javier Moroni;03/06/2017;Factura;Diseño Web;10000;5207;52066100;Pesos Argentinos
+A-0001-00000098;Horizonte S.A.;02/06/2017;Factura;Impresora Multifuncion ;20000;4300;86000000;Pesos Argentinos
+A-0001-00000098;Horizonte S.A.;02/06/2017;Factura;Insumos oficina;10000;1500;15000000;Pesos Argentinos
+B-0001-00000057;Valeria Welponer;09/05/2017;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;20000;5785;115702500;Pesos Argentinos
+B-0001-00000057;Valeria Welponer;09/05/2017;Factura;Parlantes para PC;30000;1240;37190100;Pesos Argentinos
+B-0001-00000056;Ferrari Hnos S.A.;07/05/2017;Factura;Impresora Multifuncion ;40000;3554;142148800;Pesos Argentinos
+A-0001-00000097;Hernandez S.A.;07/05/2017;Factura;Honorarios;10000;7000;70000000;Pesos Argentinos
+A-0001-00000097;Hernandez S.A.;07/05/2017;Factura;Consultoria Digital;10000;6900;69000000;Pesos Argentinos
+A-0001-00000096;Jameson SRL;06/05/2017;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;20000;6000;120000000;Pesos Argentinos
+A-0001-00000095;Campomas S.A.;06/05/2017;Factura;Impresora Multifuncion ;20000;5890;117800000;Pesos Argentinos
+A-0001-00000094;Klarkson;04/05/2017;Factura;Publicidad y Marketing;10000;7400;74000000;Pesos Argentinos
+A-0001-00000093;Campomas S.A.;03/05/2017;Factura;Diseño Web;10000;6300;63000000;Pesos Argentinos
+A-0001-00000093;Campomas S.A.;03/05/2017;Factura;Honorarios;10000;5000;50000000;Pesos Argentinos
+A-0001-00000092;Hernandez S.A.;11/04/2017;Factura;Honorarios;10000;10000;100000000;Pesos Argentinos
+A-0001-00000092;Hernandez S.A.;11/04/2017;Factura;Diseño Web;10000;3000;30000000;Pesos Argentinos
+B-0001-00000055;Javier Moroni;08/04/2017;Factura;Impresora Multifuncion ;30000;3554;106611600;Pesos Argentinos
+B-0001-00000055;Javier Moroni;08/04/2017;Factura;Parlantes para PC;30000;826;24793400;Pesos Argentinos
+A-0001-00000091;Hernandez S.A.;07/04/2017;Factura;Consultoria Web;10000;12000;120000000;Pesos Argentinos
+A-0001-00000090;Berker S.R.L;07/04/2017;Factura;Consultoria Web;10000;8000;80000000;Pesos Argentinos
+B-0001-00000054;Juan Vidauli;05/04/2017;Factura;PC;30000;4132;123966900;Pesos Argentinos
+B-0001-00000054;Juan Vidauli;05/04/2017;Factura;Televisor Led Samsung 32  Hd Con Soporte Y Control;20000;2893;57851200;Pesos Argentinos
+A-0001-00000089;Horizonte S.A.;03/04/2017;Factura;Monitores;20000;4000;80000000;Pesos Argentinos
+B-0001-00000053;Juan Lopez;03/04/2017;Factura;Materia Prima Importada;50000;1200;60000000;Pesos Argentinos
+A-0001-00000089;Horizonte S.A.;03/04/2017;Factura;Parlantes para PC;30000;1000;30000000;Pesos Argentinos
+A-0001-00000088;Manganello S.R.L;16/03/2017;Factura;Consultoria Web;10000;6000;60000000;Pesos Argentinos
+A-0001-00000087;Hernandez S.A.;13/03/2017;Factura;Monitores;50000;5000;250000000;Pesos Argentinos
+A-0001-00000086;Ignition S.A.C.I;13/03/2017;Factura;Impresora Multifuncion ;30000;4300;129000000;Pesos Argentinos
+B-0001-00000052;Ferrari Hnos S.A.;13/03/2017;Factura;Honorarios;10000;12397;123966900;Pesos Argentinos
+A-0001-00000085;Galardon S.A.;10/03/2017;Factura;Monitores;30000;4000;120000000;Pesos Argentinos
+A-0001-00000084;Algorte S.A.;03/03/2017;Factura;Diseño Web;10000;10000;100000000;Pesos Argentinos
+A-0001-00000082;Manganello S.R.L;28/02/2017;Factura;Consultoria Web;20000;6300;126000000;Pesos Argentinos
+A-0001-00000082;Manganello S.R.L;28/02/2017;Factura;Diseño Web;20000;6300;126000000;Pesos Argentinos
+A-0001-00000083;Nicolasen y Asociados S.A.;28/02/2017;Factura;Consultoria Web;20000;5890;117800000;Pesos Argentinos
+A-0001-00000083;Nicolasen y Asociados S.A.;28/02/2017;Factura;Honorarios;10000;6000;60000000;Pesos Argentinos
+B-0001-00000051;Etigand S.A.;23/02/2017;Factura;Impresora Multifuncion ;40000;3554;142148800;Pesos Argentinos
+B-0001-00000050;Ferrari Hnos S.A.;14/02/2017;Factura;Consultoría;30000;4132;123966900;Pesos Argentinos
+A-0001-00000081;Campomas S.A.;01/02/2017;Factura;Diseño Web;10000;6300;63000000;Pesos Argentinos
+B-0001-00000049;Ferrari Hnos S.A.;23/01/2017;Factura;Monitores;30000;3306;99173600;Pesos Argentinos
+B-0001-00000048;Ferrari Hnos S.A.;10/01/2017;Factura;PC;20000;7025;140495900;Pesos Argentinos
+A-0001-00000080;Galardon S.A.;10/01/2017;Factura;Diseño Web;10000;6300;63000000;Pesos Argentinos
+B-0001-00000048;Ferrari Hnos S.A.;10/01/2017;Factura;Monitores;10000;3306;33057900;Pesos Argentinos
+B-0001-00000047;Etigand S.A.;06/01/2017;Factura;Monitores;30000;3306;99173600;Pesos Argentinos
+B-0001-00000047;Etigand S.A.;06/01/2017;Factura;Parlantes para PC;40000;826;33057900;Pesos Argentinos
+B-0001-00000047;Etigand S.A.;06/01/2017;Factura;Mouse;30000;744;22314100;Pesos Argentinos
+A-0001-00000079;Berker S.R.L;05/01/2017;Factura;Mercaderia de Reventa;10000;7000;70000000;Pesos Argentinos
+A-0001-00000078;Amazon Group;03/01/2017;Factura;Consultoria Web;10000;5890;58900000;Pesos Argentinos
+A-0001-00000077;Donadelli S.R.L;02/01/2017;Factura;Honorarios;10000;10500;105000000;Pesos Argentinos
